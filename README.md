@@ -7,4 +7,4 @@
 ![Static Badge](https://img.shields.io/badge/Age-15-green)
 ![Static Badge](https://img.shields.io/badge/country-Brasil-green)
 <br>
-![My Stats](https://github-readme-stats.vercel.app/api?username=gec0&theme=gruvbox&show_icons=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=gec0&theme=gotham&show_icons=true)
